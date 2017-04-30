@@ -11,6 +11,7 @@
 /.idea
 .project
 .classpath
+.editorconfig
 .c9/
 *.launch
 .settings/
